@@ -1,25 +1,44 @@
-# pizza_delivery
+# Pizza Delivery App 🍕
 
-A practice application for complex User Interface and Animations.
+A Flutter-based practice application focused on building complex user interfaces and smooth animations.
 
-Original UI inspiration by [JIANGGM](https://dribbble.com/shots/8154883-Pizza-order-system).
+Developed by **Shree (Phanishree N Kulkarni)**.
 
-## Previews
-<img src="https://github.com/pruthvi145/pizza-delivery-app/blob/master/screenshots/ss-1.jpg" alt="Screen One" width="200"/>
-<img src="https://github.com/pruthvi145/pizza-delivery-app/blob/master/screenshots/ss-2.jpg" alt="Screen Two" width="200"/>
+UI originally inspired by JIANGGM (Dribbble).
 
-#### Video captures to see animations: [Drive Link](https://drive.google.com/open?id=1TGa88RIDa_l4ZlXtbIso0hsa8kopL_eW)
+---
 
-## Getting Started
+## 📸 App Previews
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/ss-1.jpg" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/ss-2.jpg" width="180"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+🎥 Animation demo video:  
+https://drive.google.com/open?id=1TGa88RIDa_l4ZlXtbIso0hsa8kopL_eW
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
 
+This project is a Flutter application.
+
+### Prerequisites
+
+- Flutter SDK installed  
+- Android Studio or VS Code  
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+
+✨ Features
+
+Beautiful pizza ordering UI
+Smooth animations
+Clean navigation
+Responsive layout
